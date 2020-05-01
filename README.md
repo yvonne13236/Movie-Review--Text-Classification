@@ -1,5 +1,5 @@
 # Movie-Review--Text-Clasification
-This is a practice script followed by the article here: https://realpython.com/python-keras-text-classification/#choosing-a-data-set. 
+This is a practice script that followed the article here: https://realpython.com/python-keras-text-classification/#choosing-a-data-set. 
 
 
 It's a Jupyter Notebook script on text analysis for practice and learning purposes.
